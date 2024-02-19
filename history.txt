@@ -1,0 +1,256 @@
+    1  sudo apt-get update
+    2  echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
+    3    $(. /etc/os-release && echo "$VERSION_CODENAME") stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+    4  sudo apt-get update
+    5  echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
+    6    $(. /etc/os-release && echo "$VERSION_CODENAME") stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+    7  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+    8  sudo docker run hello-world
+    9  echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
+   10    $(. /etc/os-release && echo "$VERSION_CODENAME") stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+   11  docker version
+   12  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+   13  touch docker_file.sh
+   14  ll
+   15  sudo nano docker_file.sh
+   16  sudo docker_file.sh
+   17  sudo service docker start
+   18  curl -fsSL https://get.docker.com -o get-docker.sh
+   19  sudo sh ./get-docker.sh --dry-run
+   20  sudo service docker start
+   21  docker-compose-v2
+   22  ll
+   23  sudo get-docker.sh
+   24  cat get-docker.sh 
+   25  clear
+   26  sudo chmod +x script_docker.sh
+   27  ll
+   28  sudo chmod +x docker_file.sh
+   29  sudo ./docker_file.sh
+   30  sudo docker run hello-world
+   31  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+   32  sudo docker run hello-world
+   33  ll
+   34  pwd
+   35  mkdir wad_exam
+   36  ll
+   37  ssh-keygen -t rsa -C "irismo91@gmail.com"
+   38  ll
+   39  cd .ssh/
+   40  ll
+   41  cat id_rsa.pub
+   42  sudo chmod -R 777 /home/ubuntu/wad_exam/
+   43  cd .. 
+   44  cd wad_exam/
+   45  git init
+   46  echo "# wad_second_term_monday" >> README.md
+   47  ll
+   48  git add README.md
+   49  git commit -m "first_commit"
+   50  git config user.name
+   51  gituser.name
+   52  git user.name
+   53  git --help
+   54  git branch -M main
+   55  git push -u origin main
+   56  git remote add origin git@github.com:Irissu/wad_second_term_monday.git
+   57  git push -u origin main
+   58  wget -U "Firefox" https://github.com/andrewagain/calculator/archive/refs/heads/master.zip
+   59  ll
+   60  unzip master.zip 
+   61  ll
+   62  sudo apt install unzip
+   63  unzip master.zip 
+   64  ll
+   65  sudo rm -rf master.zip 
+   66  ll
+   67  cd calculator-master/
+   68  npm start
+   69  sudo apt install npm
+   70  npm start
+   71  npm test
+   72  npm run build
+   73  npm install
+   74  npm start
+   75  ll
+   76  cd wad_exam/
+   77  ll
+   78  cd calculator-master/
+   79  ll
+   80  node server.js
+   81  sudp apt-get install node
+   82  sudo apt-get install node
+   83  node server.js
+   84  clear
+   85  npm start
+   86  sudo apt-get install nodejs npm
+   87  sudo npm install -g pm2 express
+   88  sudo apt-get install apache2
+   89  ll
+   90  cd w
+   91  cd wad_exam/
+   92  ll
+   93  cd ..
+   94  ll
+   95  cd wad_exam/
+   96  npm start
+   97  ll
+   98  cd calculator-master/
+   99  npm start
+  100  sudpo apt-get install apache2
+  101  sudo apt-get install apache2
+  102  ll
+  103  cd ,,
+  104  cd ..
+  105  ll
+  106  cd ..
+  107  ll
+  108  cd /home/ubuntu/
+  109  ll
+  110  wa
+  111  cd wad_exam/
+  112  ll
+  113  cd calculator-master/
+  114  pwd
+  115  cp /home/ubuntu/wad_exam/calculator-master /var/www/html/
+  116  cp -r /home/ubuntu/wad_exam/calculator-master /var/www/html/
+  117  sudo cp -r /home/ubuntu/wad_exam/calculator-master /var/www/html/
+  118  cd /var/www/html/
+  119  ll
+  120  cd calculator-master/
+  121  npm start
+  122  cd /var/www/html/
+  123  ll
+  124  cd calculator-master/
+  125  node server.js
+  126  ll
+  127  cd node_modules/
+  128  ll
+  129  cd ..
+  130  clear
+  131  cd ..
+  132  cd ./
+  133  cd ~
+  134  ll
+  135  wad_exam/
+  136  ll
+  137  cd wad_exam/
+  138  sudo git commit -m "second_commit"
+  139  git add calculator-master/
+  140  git push -u origin main
+  141  sudo git push -u origin main
+  142  git push -u origin main
+  143  ll
+  144  git log
+  145  sudo git commit -m "second_commit2"
+  146  git push -u origin main
+  147  cd ..
+  148  wget -U "Firefox" https://phpgurukul.com/?sdm_process_download=1&download_id=9602
+  149  ll
+  150  wad_exam/
+  151  cd wad_exam/
+  152  wget -U "Firefox" https://phpgurukul.com/?sdm_process_download=1&download_id=9602
+  153  wget -U "Firefox" https://phpgurukul.com/?sdm_process_download=1&download_id=9602 -O visitors.zip
+  154  ll
+  155  cat wget-log.2
+  156  cd w
+  157  ll
+  158  cd ..
+  159  ll
+  160  wget -U "Firefox" https://phpgurukul.com/?sdm_process_download=1&download_id=9602 -O visitors.zip
+  161  wget -U "Firefox" "https://phpgurukul.com/?sdm_process_download=1&download_id=9602" -O visitors.zip
+  162  ll
+  163  unzip visitors.zip 
+  164  ll
+  165  mv Company-Visitor-Management-System-PHP/ company
+  166  ll
+  167  pwd
+  168  cp /home/ubuntu/ /var/www/html/ company/
+  169  sudo cp -r /home/ubuntu/ /var/www/html/ company/
+  170  sudo cp -r company/ /var/www/html/
+  171  ll
+  172  cd /var/www/html/
+  173  ll
+  174  sudo chown -R www-data /var/www/html/company/
+  175  cd ~
+  176  ll
+  177  mv company/ wad_exam/
+  178  cd wad_exam/
+  179  ll
+  180  cd c
+  181  cd company/
+  182  pwd
+  183  docker run -v /home/ubuntu/wad_exam/company/:/var/www/html/ --name dockerphp -d -it
+  184  docker run -v /home/ubuntu/wad_exam/company/:/var/www/html --name phpcontainer -d -it ubuntu
+  185  sudo docker run -v /home/ubuntu/wad_exam/company/:/var/www/html --name phpcontainer -d -it ubuntu
+  186  docker ps
+  187  sudo docker ps
+  188  docker exect -it phpcontainer bash
+  189  sudo docker exect -it phpcontainer bash
+  190  sudo docker exec -it phpcontainer bash
+  191  docker ps
+  192  sudo docker ps
+  193  docker restart phpcontainer
+  194  sudo docker restart phpcontainer
+  195  sudo docker exec -it phpcontainer bash
+  196  cd etc/apache2/sites-available
+  197  cd /etc/apache2/
+  198  ll
+  199  sites-available/
+  200  ll
+  201  cd sites-available/
+  202  ll
+  203  cp 000-default.conf exam.conf
+  204  sudo cp 000-default.conf exam.conf
+  205  sudo nano exam.conf 
+  206  cd /var/www/html/
+  207  ll
+  208  cd company/
+  209  pwd
+  210  cd /etc/
+  211  ll
+  212  clear
+  213  /etc/apache2/sites-available/
+  214  cd /etc/apache2/sites-available/
+  215  sudo nano exam.conf 
+  216  sudo a2dissite 000-default.conf 
+  217  sudo a2enssite exam.conf 
+  218  sudo a2ensite exam.conf 
+  219  sudo service apache2 restart
+  220  cd ..
+  221  cd sites-enabled/
+  222  ll
+  223  cd ~
+  224  ll
+  225  cd wad_exam/
+  226  ll
+  227  cd company/
+  228  ll
+  229  cd /etc/apache2/sites-available/
+  230  sudo nano exam.conf 
+  231  sudo service apache2 stop
+  232  sudo docker ps
+  233  sudo exec -it phpcontainer bash
+  234  sudo docker start phpcontainer
+  235  sudo exec -it phpcontainer bash
+  236  docker exec -it phpcontainer bash
+  237  sudo +çdocker exec -it phpcontainer bash
+  238  sudo docker exec -it phpcontainer bash
+  239  docker ps -a
+  240  sudo docker ps -a
+  241  docker inspect phpcontainer
+  242  sudo docker inspect phpcontainer
+  243  cd ~
+  244  docker network inspect bridge
+  245  sudo docker network inspect bridge
+  246  docker network create awsnetwork 
+  247  sudo docker network create awsnetwork 
+  248  docker stop phpcontainer
+  249  sud docker stop phpcontainer
+  250  sudo docker stop phpcontainer
+  251  docker start phpcontainer
+  252  sud docker start phpcontainer
+  253  sudo docker start phpcontainer
+  254  sudo docker stop phpcontainer
+  255  sudo docker network connect awsnetwork phpcontainer --ip 54.91.209.38
+  256  history>history.txt
